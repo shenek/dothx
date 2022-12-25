@@ -1,4 +1,0 @@
-[[language]]
-name = "python"
-formatter = { command = "isort", args = ["-"] }
-auto-format = true
